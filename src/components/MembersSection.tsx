@@ -72,6 +72,19 @@ const MembersSection = () => {
         github: '#'
       }
     },
+
+    {
+      name: 'Misheel Galbadrakh',
+      role: 'Masters, Researcher',
+      expertise: 'Artificial Intelegence, Computer Vision',
+      image: '/michael.jpg',
+      bio: 'Master’s student specializing in Artificial Intelligence research, focusing on computer vision, machine learning, and data labeling etc',
+      social: {
+        linkedin: '#',
+        twitter: '#',
+        github: '#'
+      }
+    },
     {
       name: ' Saydirasulov Norkobil',
       role: 'Post Doc',
@@ -84,18 +97,7 @@ const MembersSection = () => {
         github: '#'
       }
     },
-    {
-      name: 'Safarov Furqat',
-      role: 'Ph.D Researcher',
-      expertise: 'Artificial Intelegence, Fire detection, Super Resolution',
-      image: '/furqataka.jpg',
-      bio: 'Bridging the gap between cutting-edge AI research and practical applications.',
-      social: {
-        linkedin: '#',
-        twitter: '#',
-        github: '#'
-      }
-    },
+  
        {
       name: 'Man Qia Yue',
       role: 'Assistant Professor',
